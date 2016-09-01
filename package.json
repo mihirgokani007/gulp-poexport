@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "gulp-util": "^3.0.7",
+    "xlsx": "^0.8.0",
     "pofile": "^1.0.2",
     "through2": "^2.0.1"
   },
